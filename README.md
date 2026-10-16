@@ -26,7 +26,7 @@ Backend: Node.js, Express, MongoDB.
 
 ## Ahora
 
-Cursos de **vibe coding** y **clean code**.
+Cursos de **preparación para la certificación LPIC-1**, **vibe coding** y **clean code**.
 
 ## Stats
 
