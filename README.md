@@ -30,6 +30,12 @@ Cursos de **preparación para la certificación LPIC-1**, **vibe coding** y **cl
 
 ## Stats
 
+<!--p>
+  <img src="https://github-readme-stats.vercel.app/api?username=manuelgarciacr&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgarciacr&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+</p-->
 <p>
   <img src="https://streak-stats.demolab.com/?user=manuelgarciacr&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
 </p>
