@@ -2,7 +2,7 @@
 
 Analista-programador y técnico en ciberseguridad. Desarrollo principalmente con **Angular** y **Node.js**.
 
-Web: [manuelgc.eu/index](https://manuelgc.eu/index)
+Web: [manuelgc.eu/index](https://manuelgc.eu/index). Periódicamente voy añadiendo a mis repositorios etiquetas que permiten filtrarlos en pantalla por materias, cursos, tecnologías, etc. Solo los repositorios con etiquetas aparecen en la web. Si han sido desplegados en Github Pages o en mi servidor personal, mostrarán un link a la página.
 
 ## Stack
 
@@ -22,11 +22,12 @@ Backend: Node.js, Express, MongoDB.
 | [index](https://github.com/manuelgarciacr/index) | Índice de repositorios y web personal. Angular 20, Material, theming, tests y GitHub Actions. Publicación: [manuelgc.eu/index](https://manuelgc.eu/index) |
 | [j2d‑manuel‑gc](https://github.com/manuelgarciacr/j2d-manuel-gc) | Proyecto angular seleccionando para participar en la final de la hackaton de Jump to Digital 2023: animations, formularios, API, bs5 y angular material |
 | [ITA‑angular‑s8](https://github.com/manuelgarciacr/ITA-angular-s8) | Sprint 8 del bootcamp Angular (IT Academy): routing, animations, formularios, API y tests |
-| [ITA‑angular‑s8‑v2](https://github.com/manuelgarciacr/ITA-angular-s8-v2) | Inprocode. Spring 8 versión 2 del bootcamp Angular (IT Academy): routing, animations, formularios, mapas, gráficos, calendario y API |
+| [ITA‑angular‑s8‑v2](https://github.com/manuelgarciacr/ITA-angular-s8-v2) | Inprocode. Spring 8 versión 2 del bootcamp Angular (IT Academy): routing, animations, formularios, mapas, gráficos, calendario y API. CI/CD con Github Actions a mi servidor personal a través de una conexión ssh via VPN con autenticación por clave pública |
+| [ITA‑angular‑s8‑v2‑backend](https://github.com/manuelgarciacr/ITA-angular-s8-v2-backend) | Inprocode (backend). Spring 8 versión 2 del bootcamp Angular (IT Academy): express, API, bcryptjs y mongodb. Al igual que la aplicación, desplegada con  CI/CD (Github Actions, ssh por clave pública y VPN) |
 
 ## Ahora
 
-Cursos de **preparación para la certificación LPIC-1**, **vibe coding** y **clean code**.
+Curso de **preparación para la certificación LPIC-1** en PUE (Barcelona).
 
 ## Stats
 
